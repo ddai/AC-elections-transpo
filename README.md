@@ -1,4 +1,4 @@
-AC-elections-transpo
+Alameda County Election Data
 ====================
 
-Alameda County Elections - Transportation Data
+Election results for recent transportation measures in Alameda County, now in an accessible CSV format!
